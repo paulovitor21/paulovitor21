@@ -2,7 +2,7 @@
 
 Meu nome é Paulo Vitor 👱‍♂️ 🇧🇷
 
-Sou Analista de Sistemas e trabalho como desenvolvedor Front-End desde 2021. 💻
+Sou Engenheiro de Software e trabalho como desenvolvedor Front-End desde 2021. 💻
 
 Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
