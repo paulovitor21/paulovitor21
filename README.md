@@ -2,7 +2,7 @@
 
 Meu nome é Paulo Vitor 👱‍♂️ 🇧🇷
 
-💻- Analista de Sistemas
+💻- Analista de Sistemas\n
 📚- Estudante de Sistemas de Informação na UFAM
 
 
