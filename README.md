@@ -3,7 +3,6 @@
 Meu nome é Paulo Vitor 👱‍♂️ 🇧🇷
 
 💻- Analista de Sistemas
-
 📚- Estudante de Sistemas de Informação na UFAM
 
 [![Linkedin: Paulo Vitor](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eupaulovitorpereira/)](https://www.linkedin.com/in/eupaulovitorpereira/)
