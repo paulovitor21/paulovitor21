@@ -1,3 +1,9 @@
+Olar! Sou a Gabs e bem vindo(a) ao meu Github 🤓
+Instagram Gmail Linkedin Codepen
+💻 Dev Front-end desde 2018
+🎓 FormadO em Sistemas para Internet na Fiap
+📱 Compartilhando conteúdos de desenvolvimento e da vida de dev no Instagram
+
 ### Olá! Bem vindo ao meu GITHUB! 🖐
 
 [![site](https://img.shields.io/badge/VitorCode-Up-76B900?style=for-the-badge&logo=vitorcode&logoColor=white)](https://)
