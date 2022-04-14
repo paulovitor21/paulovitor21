@@ -23,6 +23,9 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
+##
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulovitor21&show_icons=true&theme=onedark)
+
 <div>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabevaz&layout=compact&langs_count=8&theme=radical"/>-->
