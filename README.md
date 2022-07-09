@@ -1,4 +1,4 @@
-## Olá! Bem vindo(a) ao meu Github 🤓
+## Olá! Bem vindo(a) ao meu Github
 
 <div>
   <a href="https://www.instagram.com/vitorliborio3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
