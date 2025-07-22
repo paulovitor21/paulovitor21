@@ -1,16 +1,15 @@
 
-# Olá, eu sou [Paulo] 👨‍💻
+# Olá, Bem Vindo 👨‍💻
 
-**Desenvolvedor Full Stack | Especialista em [Sua Especialidade]**
+**Desenvolvedor de Sistemas | Especialista em Desenvolvimento Web, Mobile, Automação**
 
-Sou um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e eficientes. Com [X anos] de experiência em desenvolvimento de software, tenho expertise em tecnologias modernas e metodologias ágeis.
+Sou um desenvolvedor com experiência em criar soluções tecnológicas inovadoras e eficientes. Com 5 anos de experiência em desenvolvimento de software, tenho expertise em tecnologias modernas e metodologias ágeis.
 
 ## 🚀 Sobre Mim
 
-- 💼 Atualmente trabalhando como **[Seu Cargo]** na **[Empresa Atual]**
+- 💼 Atualmente trabalhando como **[Analista de Sistenas]** na **[Vitor Tecnologia ]**
 - 🎯 Focado em desenvolvimento **[Frontend/Backend/Full Stack]**
 - 🌱 Sempre aprendendo e explorando novas tecnologias
-- 📍 Localizado em **[Sua Cidade, Estado]**
 - 💬 Disponível para discussões sobre **tecnologia, projetos e oportunidades**
 
 ## 💻 Stack Tecnológica
@@ -43,8 +42,8 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras e 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovitor21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovitor21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🏆 Projetos em Destaque
@@ -66,14 +65,13 @@ Descrição breve do projeto e tecnologias utilizadas.
 
 ## 🎓 Certificações & Formação
 
-- 🎓 **[Sua Formação]** - [Instituição] ([Ano])
-- 📜 **[Certificação Relevante]** - [Instituição] ([Ano])
-- 📜 **[Outra Certificação]** - [Instituição] ([Ano])
+- 🎓 **Graduação em Sistemas de Informação** - Universidade Federal do Amazonas (2023)
+
 
 ## 📈 Experiência Profissional
 
-**[Cargo Atual]** • **[Empresa]** • *[Período]*
-- Desenvolvimento e manutenção de aplicações web
+**Desenvolvedor RPA** • **Instituto de Pesquisas Eldoradso** • *Jun. 2023 a Mar. 2025*
+- Desenvolvimento e manutenção de RPA's
 - Colaboração em equipes ágeis utilizando metodologias Scrum
 - Implementação de melhores práticas de desenvolvimento
 
@@ -84,24 +82,22 @@ Descrição breve do projeto e tecnologias utilizadas.
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/[SEU_LINKEDIN]">
+  <a href="https://linkedin.com/in/[paulovitor21]">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[SEU_EMAIL]">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://[SEU_PORTFOLIO]">
+  <a href="https://[paulovitor21.github.io/meu-portfolio/]">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://twitter.com/[SEU_TWITTER]">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USERNAME]&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=paulovitor21&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/>
 </div>
 
 <div align="center">
