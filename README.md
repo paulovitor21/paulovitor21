@@ -70,7 +70,7 @@ Descrição breve do projeto e tecnologias utilizadas.
 
 ## 📈 Experiência Profissional
 
-**Desenvolvedor RPA** • **Instituto de Pesquisas Eldoradso** • *Jun. 2023 a Mar. 2025*
+**Desenvolvedor RPA** • **Instituto de Pesquisas Eldorado** • *Jun. 2023 a Mar. 2025*
 - Desenvolvimento e manutenção de RPA's
 - Colaboração em equipes ágeis utilizando metodologias Scrum
 - Implementação de melhores práticas de desenvolvimento
