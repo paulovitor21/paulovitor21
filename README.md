@@ -7,7 +7,6 @@ Sou um desenvolvedor com experiência em criar soluções tecnológicas inovador
 
 ## 🚀 Sobre Mim
 
-- 💼 Atualmente trabalhando como **[Analista de Sistenas]** na **[Vitor Tecnologia ]**
 - 🎯 Focado em desenvolvimento **[Frontend/Backend/Full Stack]**
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 💬 Disponível para discussões sobre **tecnologia, projetos e oportunidades**
@@ -48,9 +47,9 @@ Sou um desenvolvedor com experiência em criar soluções tecnológicas inovador
 
 ## 🏆 Projetos em Destaque
 
-### 📱 [Nome do Projeto 1](https://github.com/seuusuario/projeto1)
+### 📱 Fisiocare(https://github.com/paulovitor21/fisiocare-backend)
 Descrição breve do projeto e tecnologias utilizadas.
-- **Tech Stack:** React, Node.js, MongoDB
+- **Tech Stack:** Java, SpringBoot, Angular, MySQL
 - **Status:** ✅ Concluído
 
 ### 🌐 [Nome do Projeto 2](https://github.com/seuusuario/projeto2)
