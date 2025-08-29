@@ -47,7 +47,7 @@ Sou um desenvolvedor com experiência em criar soluções tecnológicas inovador
 
 ## 🏆 Projetos em Destaque
 
-### 📱 Fisiocare(https://github.com/paulovitor21/fisiocare-backend)
+### 📱 [Fisiocare](https://github.com/paulovitor21/fisiocare-backend)
 Descrição breve do projeto e tecnologias utilizadas.
 - **Tech Stack:** Java, SpringBoot, Angular, MySQL
 - **Status:** ✅ Concluído
