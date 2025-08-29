@@ -50,7 +50,7 @@ Sou um desenvolvedor com experiência em criar soluções tecnológicas inovador
 ### 📱 [Fisiocare](https://github.com/paulovitor21/fisiocare-backend)
 Descrição breve do projeto e tecnologias utilizadas.
 - **Tech Stack:** Java, SpringBoot, Angular, MySQL
-- **Status:** ✅ Concluído
+- **Status:** 🚧 Em desenvolvimento
 
 ### 🌐 [Nome do Projeto 2](https://github.com/seuusuario/projeto2)
 Descrição breve do projeto e tecnologias utilizadas.
@@ -74,9 +74,6 @@ Descrição breve do projeto e tecnologias utilizadas.
 - Colaboração em equipes ágeis utilizando metodologias Scrum
 - Implementação de melhores práticas de desenvolvimento
 
-**[Cargo Anterior]** • **[Empresa Anterior]** • *[Período]*
-- Descrição das principais responsabilidades
-- Principais conquistas e resultados
 
 ## 🌐 Conecte-se Comigo
 
